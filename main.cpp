@@ -30,7 +30,7 @@ int main(){
 
 	long double ld;
 	ld=15.00000;
-	printf("value of ld: % \n",ld);
+	printf("value of ld: %ld \n",ld);
 	printf("sizeof ld is: %d \n",sizeof(ld));
 
 	getch();
